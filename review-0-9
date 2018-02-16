@@ -1,0 +1,48 @@
+#1
+public class One (
+  public static void main(String [] args) { 
+    System.out.println("Hello");
+    System.out.println("World");
+  }
+}
+    
+Output:
+Hello
+World
+
+
+#2
+System.out.println("2 + 3");
+
+Output:
+2 + 3
+
+
+#3
+System.out.println(4 + 2);
+
+Output:
+6
+
+
+#4
+//System.out.println("Hello")
+System.out.println("World");
+
+Output:
+World
+
+
+#5
+System.out.print("Hello"); System.out.println("World");
+//NEVER do this!
+
+Output:
+HelloWorld
+
+
+#6
+System.out.print("Hello"); //System.out.println("World");
+
+Output:
+Hello
