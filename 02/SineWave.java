@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class SineWave
 {
-	public static void main ( String[] args )
+	public static void main (String[] args)
 	{
 		SineFrame frame = new SineFrame();
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
