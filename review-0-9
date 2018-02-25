@@ -11,7 +11,7 @@ java <ClassName>       // run class (program)
 
 
 #1
-public class One {
+public class (NameOfDocument) {
   public static void main(String [] args) { 
     System.out.println("Hello");
     System.out.println("World");
